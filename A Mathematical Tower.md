@@ -1,6 +1,6 @@
 # A Mathematical Tower
 
-![test](.\test.gif)
+![test](https://github.com/kzhdlmu/math/blob/main/test.gif)
 
 To solve a simple 2nd-order ODE, we can get the above tower. This idea likes the new roof design for Notre-Dame-Cathedral by TRNSFRM's design
 
